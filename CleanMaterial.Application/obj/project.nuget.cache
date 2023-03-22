@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEMGizez9/DpiOSnSse8ZrG3kBJzPyWfHhyXMrgKgUFHgpuPli14GTwcbnEM1tW5U6lUDFjbK1G621WgRjt5xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\HAHN\\BasicBreakthough\\CleanMaterial.Application\\CleanMaterial.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

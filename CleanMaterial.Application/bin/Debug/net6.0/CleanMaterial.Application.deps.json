@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanMaterial.Application/1.0.0": {
+        "dependencies": {
+          "CleanMaterial.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanMaterial.Application.dll": {}
+        }
+      },
+      "CleanMaterial.Domain/1.0.0": {
+        "runtime": {
+          "CleanMaterial.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanMaterial.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanMaterial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

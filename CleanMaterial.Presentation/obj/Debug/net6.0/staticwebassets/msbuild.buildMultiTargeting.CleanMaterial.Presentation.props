@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CleanMaterial.Presentation.props" />
+</Project>
